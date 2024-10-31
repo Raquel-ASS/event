@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-10-30 18:13:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2650bff183219610abb89cb6feaad380</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Event Registration</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Event Registration" source="x_1113211_event_0">9760eb7d83a95610abb89cb6feaad3c0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Event Registration">9760eb7d83a95610abb89cb6feaad3c0</sys_scope>
+        <sys_update_name>sys_app_application_2650bff183219610abb89cb6feaad380</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-10-30 18:14:21</sys_updated_on>
+        <title>Event Registration</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
